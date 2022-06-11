@@ -1,0 +1,11 @@
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\bin\Debug\WFS (Celcius to Fahrenheit).exe.config
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\bin\Debug\WFS (Celcius to Fahrenheit).exe
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\bin\Debug\WFS (Celcius to Fahrenheit).pdb
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS (Celcius to Fahrenheit).csproj.AssemblyReference.cache
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS (Celcius to Fahrenheit).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS__Celcius_to_Fahrenheit_.Form1.resources
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS__Celcius_to_Fahrenheit_.Properties.Resources.resources
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS (Celcius to Fahrenheit).csproj.GenerateResource.cache
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS (Celcius to Fahrenheit).csproj.CoreCompileInputs.cache
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS (Celcius to Fahrenheit).exe
+C:\Users\Hima\Desktop\WFA\WFS (Celcius to Fahrenheit)\WFS (Celcius to Fahrenheit)\obj\Debug\WFS (Celcius to Fahrenheit).pdb
